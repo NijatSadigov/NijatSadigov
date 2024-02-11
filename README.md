@@ -4,5 +4,5 @@ Here you can see My projects I made during last years do develop myself.
 Folder You can see projects/games I made in unity. C#     
 #### Java Dev
 In folder you can see my Java projects. Java       
-#### Web dev
+#### Web programming
 In there you can see my Projects in Html/Css/Php/JavaScript        
