@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @NijatSadigov
-- 👀 I’m interested in Game development and wep programming
-- 🌱 I’m currently learning unity with c# and grapich design
-- 💞️ I’m looking to collaborate on people who want
-- 📫 How to reach me just write me on mail -sadiq.nicat.9@gmail.com
-
-<!---
-NijatSadigov/NijatSadigov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I am Nijat Sadigov, Computer science student. 
+Here you can see My projects I made during last years do develop myself.
+Unit Projects - Folder You can see projects/games I made in unity. C#
+In Java Dev folder you can see my Java projects. Java
+Web dev- IN there you can see my Projects in Html/Css/Php/JavaScript
